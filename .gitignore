@@ -1,4 +1,8 @@
 node_modules/
 build/
 flatten/
+
 .DS_Store
+.env
+migrations/
+
