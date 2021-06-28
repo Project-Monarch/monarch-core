@@ -1,10 +1,10 @@
 {
-  "name": "@lootswap/core",
-  "description": "🎛 Core contracts for the Lootswap exchanges",
+  "name": "@monarch/core",
+  "description": "Core contracts for the Project Monarch",
   "version": "2.0.1",
   "repository": {
     "type": "git",
-    "url": "https://github.com/LootSwap/lootswap-core"
+    "url": "https://github.com/Project-Monarch/monarch-core"
   },
   "keywords": [
     "uniswap",
@@ -12,14 +12,14 @@
     "v2",
     "core",
     "uniswap-v2",
-    "loot"
+    "monarch"
   ],
   "files": [
     "contracts",
     "build"
   ],
   "engines": {
-    "node": "=12.0.0"
+    "node": "^16.0.0"
   },
   "devDependencies": {
     "@types/chai": "^4.2.6",
